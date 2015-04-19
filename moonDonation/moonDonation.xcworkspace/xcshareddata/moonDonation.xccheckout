@@ -10,31 +10,31 @@
 	<string>moonDonation</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>B9A2A8DDAD89A75905C9C4AF1CFF016DEAD68B83</key>
-		<string>https://github.com/blky/myMoonGift</string>
+		<key>BC7EEA5E8EB2FD6C396523031AFEADB8D32B0344</key>
+		<string>https://github.com/blky/myMoonGifts.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>standfordIOS8/moonDonation/moonDonation.xcworkspace</string>
+	<string>moonDonation/moonDonation.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>B9A2A8DDAD89A75905C9C4AF1CFF016DEAD68B83</key>
-		<string>../../..</string>
+		<key>BC7EEA5E8EB2FD6C396523031AFEADB8D32B0344</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/blky/myMoonGift</string>
+	<string>https://github.com/blky/myMoonGifts.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>B9A2A8DDAD89A75905C9C4AF1CFF016DEAD68B83</string>
+	<string>BC7EEA5E8EB2FD6C396523031AFEADB8D32B0344</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>B9A2A8DDAD89A75905C9C4AF1CFF016DEAD68B83</string>
+			<string>BC7EEA5E8EB2FD6C396523031AFEADB8D32B0344</string>
 			<key>IDESourceControlWCCName</key>
-			<string>pzApps</string>
+			<string>myMoonGifts</string>
 		</dict>
 	</array>
 </dict>

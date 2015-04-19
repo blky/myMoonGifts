@@ -17,10 +17,7 @@ class CalendarViewController: UIViewController ,RSDFDatePickerViewDelegate, RSDF
 
     @IBOutlet var myView: UIView!
     
-//    func datePickerView(view: RSDFDatePickerView!, shouldHighlightDate date: NSDate!) -> Bool {
-//        return true
-//    }
-//    
+   
     func datePickerView(view: RSDFDatePickerView!, shouldMarkDate date: NSDate!) -> Bool {
         
         
@@ -36,20 +33,7 @@ class CalendarViewController: UIViewController ,RSDFDatePickerViewDelegate, RSDF
              return false
             
         }
-        
-        
-        
-    
-//        
-//        if  dif ==  {
-//            println ("true")
-//            println ("date :\(date)")
-//            return true
-//        } else {
-//            println ("false")
-//            println ("date :\(date)")
-//            return false
-//        }
+ 
         
         return false
     }
@@ -71,14 +55,12 @@ class CalendarViewController: UIViewController ,RSDFDatePickerViewDelegate, RSDF
             willDonate = true
             NSLog("OK Pressed")
             self.performSegueWithIdentifier("toDonate", sender: self)
-            
-            
+    
         }
         var cancelAction = UIAlertAction(title: "maybe next time", style: UIAlertActionStyle.Cancel) {
             UIAlertAction in
             NSLog("Cancel Pressed")
             self.performSegueWithIdentifier("toAdd", sender: self)
-            
         }
         
         // Add the actions

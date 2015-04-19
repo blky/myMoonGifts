@@ -33,9 +33,7 @@ class CalendarViewController: UIViewController ,RSDFDatePickerViewDelegate, RSDF
              return false
             
         }
- 
-        
-        return false
+         
     }
     @IBAction func clickStart(sender: UIButton) {
         println ("start clicked")
